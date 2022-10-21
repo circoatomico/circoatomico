@@ -3,10 +3,11 @@ Hello, Welcome :metal:
 
 I'm a Software Developer interested in technologies like:
 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg' width="50" height="50" /> | <img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg' width="50" height="50" />
+<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg' width="50" height="50" /> 
+<img src='https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg' width="50" height="50" />
 <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' width="50" height="50" />
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg' width="50" height="50" />
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg' width="50" height="50" />
+<img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' width="50" height="50" />
+<img src='https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg' width="50" height="50" />
      
      - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
